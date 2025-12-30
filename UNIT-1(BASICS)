@@ -1,0 +1,19 @@
+INPUT
+print("Varshini")
+print(192511215)
+a=7
+print(a)
+b=13
+print(b)
+c=a+b
+print(c)
+print(a,b)
+
+
+OUTPUT
+Varshini
+192511215
+7
+13
+20
+7 13
